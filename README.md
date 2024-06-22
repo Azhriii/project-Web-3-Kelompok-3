@@ -1,7 +1,5 @@
-# Toko Sayur 22
-Toko sayur 22 merupakan aplikasi web toko online sederhana dengan demo produk penjualan sayur. Produk dan kategori dapat diubah dengan bebas (tidak hanya sayur), pengaturan (nama situs, rekening) dan sebagainya bisa diubah dengan bebas melalui dasbor.
-
-Aplikasi ini **HANYA DIGUNAKAN UNTUK PEMBELAJARAN** dan **TIDAK DISARANKAN DIGUNAKAN** pada toko yang nyata.
+# Toko Sepatu ShoeSphere
+Toko Sepatu ShoeSphere merupakan aplikasi web toko online sederhana dengan demo produk penjualan sepatu.
 
 ##Fitur
 - Login
@@ -28,5 +26,3 @@ Untuk mencoba menggunakan toko ini, gunakan dua browser yang berbeda untuk memud
 **Customer:**
 - Username: customer
 - Password: 12345
-
-Untuk panduan cara menginstal, silahkan buka file **panduan-installasi.pdf**
